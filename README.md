@@ -45,10 +45,10 @@ These metrics collectively offer a comprehensive evaluation of the models' perfo
 
 | Metric | PLCC | SRCC | KRCC |
 |----------|----------|----------|----------|
-| Propose Model | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
-| GRU | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
-| LSTM | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
-| Simple RNN | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
+| Long Short-Term Memory | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
+| Bidirectional LSTM | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
+| Bidirectional LSTM with Self-Attention | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
+| Transformer-Based Models | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
 
 
 
