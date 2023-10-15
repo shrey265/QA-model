@@ -43,12 +43,12 @@ To rigorously assess the performance of these models, we employed a set of stand
 These metrics collectively offer a comprehensive evaluation of the models' performance, shedding light on their suitability for assessing the quality of user-generated multimedia audio content across a range of scenarios and applications.
 
 
-| Header 1 | Header 2 | Header 3 | Header 4 |
+| Metric | PLCC | SRCC | KRCC |
 |----------|----------|----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
-| Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
+| Propose Model | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
+| GRU | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
+| LSTM | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
+| Simple RNN | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
 
 
 
