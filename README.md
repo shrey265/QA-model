@@ -52,4 +52,10 @@ These metrics collectively offer a comprehensive evaluation of the models' perfo
 | GRU Based Model | 0.750 | 0.748 | 0.567 |
 
 
+| Metric | PLCC | SRCC | KRCC |
+|----------|----------|----------|----------|
+| dm_transformer_3_layers | 0.801 | 0.794 | 0.599 |
+| dm_transformer_5_layers | 0.800 | 0.791 | 0.597 |
+| dm_transformer_6_layers | 0.791 | 0.782 | 0.588 |
+
 
