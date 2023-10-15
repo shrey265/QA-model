@@ -45,10 +45,10 @@ These metrics collectively offer a comprehensive evaluation of the models' perfo
 
 | Metric | PLCC | SRCC | KRCC |
 |----------|----------|----------|----------|
-| Long Short-Term Memory | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 |
-| Bidirectional LSTM | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 |
-| Bidirectional LSTM with Self-Attention | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 |
-| Transformer-Based Models | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 |
+| Long Short-Term Memory | 0.766 | 0.770 | 0.574 |
+| Bidirectional LSTM | 0.728 | 0.740 | 0.555 |
+| Bidirectional LSTM with Self-Attention | 0.793 | 0.783 | 0.591 |
+| Transformer-Based Models | 0.796 | 0.783 | 0.588 |
 
 
 
