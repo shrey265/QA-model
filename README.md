@@ -49,7 +49,7 @@ These metrics collectively offer a comprehensive evaluation of the models' perfo
 | Bidirectional LSTM | 0.728 | 0.740 | 0.555 |
 | Bidirectional LSTM with Self-Attention | 0.793 | 0.783 | 0.591 |
 | Transformer-Based Models | 0.796 | 0.783 | 0.588 |
-
+| GRU Based Model | 0.750 | 0.748 | 0.567 |
 
 
 
